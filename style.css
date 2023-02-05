@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #8e9eab, #a3bdc3);
+}
+
+.btn {
+    background: linear-gradient(to right, #2d8ece, #074685);
+    border: none;
+    border-radius: 0.8em;
+}
+
+.btn:hover {
+    background: linear-gradient(to right, #3f474c, #2b81d6);
+}
